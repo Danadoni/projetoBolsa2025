@@ -7,6 +7,7 @@ export default function Home() {
     <View style={styles.container}>
         <Historia></Historia>
         <Jogar></Jogar>
+       
     </View>
   );
 }

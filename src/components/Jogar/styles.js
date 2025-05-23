@@ -20,7 +20,10 @@ const estilos = StyleSheet.create({
         borderRadius:80,
         borderColor:'white',
         borderWidth:1,
-        fontWeight:'bold'
+        
+        fontWeight:'bold',
+        
+
 
     },
     textoJogar:{
